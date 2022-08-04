@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: red;
+  height: 50px;
+}
+
+main {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.main-box {
+  display: inline-block;
+  margin: 50px 0;
+}
+
+.main-content {
+  width: 300px;
+  padding: 0 15px;
+}
+
+footer {
+  background-color: #aaaaaa;
+  height: 50px;
+}
